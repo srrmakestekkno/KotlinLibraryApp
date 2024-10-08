@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Kotlin for Beginners",
+    "author": "John Doe",
+    "pages": 300,
+    "releaseDate": "2021-01-01",
+    "content": "An introduction to Kotlin programming."
+  },
+  {
+    "id": 2,
+    "title": "Advanced Kotlin",
+    "author": "Jane Smith",
+    "pages": 450,
+    "releaseDate": "2023-02-15",
+    "content": "Advanced topics in Kotlin."
+  }
+]

@@ -11,5 +11,6 @@ class App {
 }
 
 fun main() {
+    var b = new Book()
     println(App().greeting)
 }
